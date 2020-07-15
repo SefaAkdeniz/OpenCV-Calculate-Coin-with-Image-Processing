@@ -1,2 +1,2 @@
-# OpenCV-Calculate-Coin-with-Image-Processing
+# OpenCV Calculate Coin-with Image Processing
  
